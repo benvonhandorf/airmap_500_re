@@ -1,0 +1,8 @@
+D0 - Pin 13 - Sync
+D1 - Pin 15 - Pixel clock
+D2 - Pin 12 - 360 sync cycles for full cycle - 50% duty cycle
+D3 - Pin 9 - Data
+D4 - Pin 8 - Data
+D5 - Pin 10 - Data
+D6 - Pin 7 - Data
+D7 - Pin 14 - Unknown
